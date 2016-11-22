@@ -4,7 +4,7 @@ var About =(props) => {
 	return (
 		<div className="text-center">
 			<h1>About</h1>
-			<p>This is the weather application build on React and foundation</p>
+			<p>This is a weather application build on React and foundation</p>
 			<p>
 				Here are some of the tools I used:
 			</p>
