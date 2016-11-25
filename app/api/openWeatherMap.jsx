@@ -19,6 +19,5 @@ module.exports = {
 		function(err) {
 			throw new Error('Unable to fetch weather for that location.');
 		});
-
 	}
 };
